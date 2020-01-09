@@ -1,0 +1,9 @@
+data_processing_module:
+    n_mfcc: 20
+    dct_type: 2
+    n_fft: 512
+    hop_length: 512
+    power: 2
+    htk: False
+    n_mels: 40
+    fmin: 0.0
