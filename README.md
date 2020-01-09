@@ -17,4 +17,6 @@ Another application of filter banks is signal compression when some frequencies 
 
 Change **pop1_path** in code to apropriate for your setup.
 Audio file should be in **.wav** format.
+Adjust the yaml config file to your needs.
 Start the program to see the outputs.
+
